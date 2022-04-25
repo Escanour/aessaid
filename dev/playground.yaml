@@ -10,7 +10,7 @@ spec:
     - protocol: TCP
       port: 3200
       targetPort: 8888
----
+----
 apiVersion: apps/v1
 kind: Deployment
 metadata:
