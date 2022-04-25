@@ -5,7 +5,7 @@ metadata:
   namespace: dev
 spec:
   rules:
-  - host: playground.10.12.12.69.nip.io
+  - host: playground.10.12.1.70.nip.io
     http:
       paths:
       - path: /
